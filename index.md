@@ -17,6 +17,7 @@ This site provides open source policy suitable for an technology heavy firm in t
 5. [Anti-Bribery Policy](anti-bribery_policy.md)
 6. [PCI-DSS Policy](PCI-DSS_policy.md)
 7. [Privacy Policy](privacy_policy.md)
+8. [Environmental Policy](environmental_policy.md)
 
 
 ### License
