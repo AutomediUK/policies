@@ -6,7 +6,7 @@ permalink: /equality_diversity_and_inclusion/
 # Equal Opportunities, Diversity & Inclusion Policy
 
 ## 1. How to use this policy
-Axelisys encourages its documentation to be stored in the public domain so that it can inspire openness and contribution to its policy and procedures. We aspire to continue to work with everyone we come into contact with in a fair and unbiased way.
+Automedi Limited ("The Company") encourages its documentation to be stored in the public domain so that it can inspire openness and contribution to its policy and procedures. We aspire to continue to work with everyone we come into contact with in a fair and unbiased way.
 
 Our documentation aspires to be a living document that changes with the input of those we come into contact with.
 
@@ -21,7 +21,7 @@ This policy is for directors, employees and independent contractors. In addition
 
 ## 1.2. Glossary of Terms  
 
-**The Company** refers to  Axelisys Limited (“the Company”) Guiding principles and Small something about the company and its structure fairly flat structure due to working practices of working with contractors. You can also add a couple of aspirations here. Human rights are a guiding principle for the company, we recognise the fundamental principles of Human Rights, as defined by the United Nations in 1948’s “Universal Declaration of Human Rights” [https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf](https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf)
+**The Company** refers to  Automedi Limited (“the Company”) Guiding principles and Small something about the company and its structure fairly flat structure due to working practices of working with contractors. You can also add a couple of aspirations here. Human rights are a guiding principle for the company, we recognise the fundamental principles of Human Rights, as defined by the United Nations in 1948’s “Universal Declaration of Human Rights” [https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf](https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf)
 
 **Employee** in this document includes permanent company hired employees as well as trainees and employees on trial or probation.
 
@@ -44,7 +44,7 @@ This policy is for directors, employees and independent contractors. In addition
 
 ## 2. Policy Statement
 
-Axelisys Limited (“the Company”) is committed to achieving a working environment which provides equality of opportunity and freedom from unlawful discrimination on the grounds of race, sex, pregnancy and maternity, marital or civil partnership status, gender reassignment, disability, religion or beliefs, age or sexual orientation.
+The Company is committed to achieving a working environment which provides equality of opportunity and freedom from unlawful discrimination on the grounds of race, sex, pregnancy and maternity, marital or civil partnership status, gender reassignment, disability, religion or beliefs, age or sexual orientation.
 
 This Policy aims to remove unfair and discriminatory practices within the Company and to encourage full contributions from its diverse community. The Company is committed to actively opposing all forms of discrimination whether within the firm, it’s supply chain and client Contracts.
 
@@ -103,7 +103,7 @@ It is not permissible to treat a person less favourably because of their age. Th
 5.3.  **Disability**
 It is not permissible to treat a disabled person less favourably than a non-disabled person. Reasonable adjustments must be made to give the disabled person as much access to any services and ability to be employed, trained, or promoted as a non-disabled person.
 
-Axelisys limited seek to ensure websites, desktop, mobile and web applications designed for clients conforms to accessibility standards including W3C WAI WCAG 2.0 Level AA when appropriate or in the client’s best interests. All websites and web applications designed for accessibility will be analysed in-house, or by a third party to ensure compliance with the standard.
+The Company seek to ensure websites, desktop, mobile and web applications designed for clients conforms to accessibility standards including W3C WAI WCAG 2.0 Level AA when appropriate or in the client’s best interests. All websites and web applications designed for accessibility will be analysed in-house, or by a third party to ensure compliance with the standard.
 
 All new projects should be built and tested for compliance with the WCAG 2.0 AA standards and are required to be:
 
