@@ -27,7 +27,7 @@ In this Policy the following terms shall have the following meanings:
   
   **"UK and EU Cookie Law"**   means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011;
   
-  **"User"**                   means any third party that accesses the Website and is not employed by Axelisys Limited and acting in the course of their employment; and
+  **"User"**                   means any third party that accesses the Website and is not employed by The Company and acting in the course of their employment; and
   
   **"Website"**                means the website that you are currently using (e.g. exmaple.com) and any sub-domains of this site (e.g. the subdomain 'subdomain.example.com') unless expressly excluded by their own terms and conditions.
 
