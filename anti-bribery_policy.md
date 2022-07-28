@@ -8,7 +8,7 @@ permalink: /anti-bribery_policy
 
 ## 1. Purpose
 
-1. Axelisys Limited (&quot;the Company&quot;) is committed to the practice of responsible corporate behaviour and to complying with all laws, regulations and other requirements which govern the conduct of our operations.
+1. Automedi Limited (&quot;the Company&quot;) is committed to the practice of responsible corporate behaviour and to complying with all laws, regulations and other requirements which govern the conduct of our operations.
 2. The Company is fully committed to instilling a strong anti-corruption culture and is fully committed to compliance with all anti-bribery and anti-corruption legislation including, but not limited to, the Bribery Act 2010 (&quot;the Act&quot;) and ensures that no bribes or other corrupt payments, inducements or similar are made, offered, sought or obtained by us or anyone working on our behalf.
 
 ## 2. Bribery
