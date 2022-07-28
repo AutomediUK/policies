@@ -8,7 +8,7 @@ permalink: /modern_slavery_policy/
 
 ## Introduction
 
-This statement sets out Axelisys Limited&#39;s actions to understand all potential modern slavery risks related to its business and to put in place steps that are aimed at ensuring that there is no slavery or human trafficking in its own business and its supply chains. This statement relates to actions and activities during this financial year.
+This statement sets out Automedi Limited&#39;s ("The Company's") actions to understand all potential modern slavery risks related to its business and to put in place steps that are aimed at ensuring that there is no slavery or human trafficking in its own business and its supply chains. This statement relates to actions and activities during this financial year.
 
 As part of Information and Communication Technology, the organisation recognises that it has a responsibility to take a robust approach to slavery and human trafficking.
 
@@ -16,12 +16,12 @@ The organisation is absolutely committed to preventing slavery and human traffic
 
 ## Organisational structure and supply chains
 
-This statement covers the activities of Axelisys Limited:
+This statement covers the activities of The Company:
 
 - Software development
 - Product Engineering
 - Circuit Design, Development and Manufacturing
-- All suppliers and manufacturers on behalf of Axelisys Limited.
+- All suppliers and manufacturers on behalf of The Company.
 
 ## Countries of operation and supply
 
@@ -33,9 +33,9 @@ The organisation currently operates in the following countries:
 The following is the process by which the company assesses whether or not particular activities or countries are high risk in relation to slavery or human trafficking:
 
 - Evaluate the policies and procedures of all suppliers procured for the development of products and services in the United Kingdom and abroad.
-- Every organisation must provide Axelisys with proof of their compliance with the UK Modern Slavery Act. Failure to provide such statement renders any offer void.
-- Any incident of slavery discovered by Axelisys, either directly or indirectly, through whatever such channel that applies, shall suspend the supplies until such time as a thorough investigation has been carried out.
-- Axelisys may appoint a third-party investigator to conduct the investigation both internally and throughout the supply chain.
+- Every organisation must provide The Company with proof of their compliance with the UK Modern Slavery Act. Failure to provide such statement renders any offer void.
+- Any incident of slavery discovered by The Company, either directly or indirectly, through whatever such channel that applies, shall suspend the supplies until such time as a thorough investigation has been carried out.
+- The Company may appoint a third-party investigator to conduct the investigation both internally and throughout the supply chain.
 
 ## High-risk activities
 
@@ -48,7 +48,7 @@ The following activities are considered to be at high risk of slavery or human t
 Responsibility for the organisation&#39;s anti-slavery initiatives is as follows:
 
 - **Policies:** All company policies are the responsibility of the board of directors. Mr Ethar Alali currently holds the post of
-- **Risk assessments:** Axelisys
+- **Risk assessments:** The Company
 - **Investigations/due diligence:** Mr Ethar Alali will oversee the team responsible for any investigations and review any resulting evidence. The company has ultimate responsibility for the results of the investigation and will act to revoke contracts to suppliers with immediate effect.
 - **Training:** To ensure a high level of understanding of the risks of modern slavery and human trafficking in our supply chains and our business, we provide training to new staff during their induction. We also require our business partners to provide training to their staff and suppliers and providers, if not already undertaken.
 
