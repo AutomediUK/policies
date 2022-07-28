@@ -7,9 +7,9 @@ permalink: /health_and_safety_policy_statement/
 
 ## Overview
 
-This is the Health and safety policy statement of Axelisys Limited
+This is the Health and safety policy statement of Automedi Limited (&quot;the Company&quot;)
 
-It is the policy of Axelisys Limited (&quot;the Company&quot;) to foster a positive health and safety culture throughout the Company because we believe that high standards of health and safety are a moral and commercial pre-requisite.
+It is the policy of The Company to foster a positive health and safety culture throughout the Company because we believe that high standards of health and safety are a moral and commercial pre-requisite.
 
 The Company is committed to:
 
