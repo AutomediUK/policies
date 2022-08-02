@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Health at Work Policy"
-permalink: /anti-bribery_policy
+permalink: /health_at_work_policy
 ---
 
 # Health at Work Policy
