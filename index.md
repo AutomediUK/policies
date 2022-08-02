@@ -25,5 +25,5 @@ This site provides open source policy suitable for an technology heavy firm in t
 GNU General Public License 3.0
 
 ### Liability
-User of this policy-pack agree to do so without warantee or indemnity of any kind and agree to hold Axelisys, its officers and agents harmless against any action brought by any employee, worker, agent, supplier or any other interaction as may occur from time to time.  
+User of this policy-pack agree to do so without warantee or indemnity of any kind and agree to hold Axelisys and its fork contributors, its officers and agents harmless against any action brought by any employee, worker, agent, supplier or any other interaction as may occur from time to time.  
 
