@@ -1,4 +1,4 @@
-#Flexible working policy 
+# Flexible working policy 
 
 ## Introduction
 This policy aims to encourage staff to consider flexible working arrangements. The organisation recognises that a better work-life balance can improve employee motivation, performance and productivity, and reduce stress. Therefore the organisation wants to support its employees achieve a better balance between work and their other priorities, such as caring responsibilities, leisure activities, further learning and other interests. The organisation is committed to agreeing any flexible working arrangements, provided that the needs and objectives of both the organisation and the employee can be met. 
