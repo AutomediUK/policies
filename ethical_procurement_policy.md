@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ethical Procurement Policy"
-permalink: /ethical_procurement_policy.md
+permalink: /ethical_procurement_policy/
 ---
 
 # Ethical Procurement Statement
