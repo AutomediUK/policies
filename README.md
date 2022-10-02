@@ -16,7 +16,10 @@ This site provides open source policy suitable for an IT firm in the UK. The aim
 5. [Anti-Bribery Policy](anti-bribery_policy.md)
 6. [PCI-DSS Policy](PCI-DSS_policy.md)
 7. [Privacy Policy](privacy_policy.md)
-7. [Environmental Policy](environmental_policy.md)
+8. [Environmental Policy](environmental_policy.md)
+9. [Health at Work Policy](health_at_work_policy.md)
+10. [Flexible Working Policy](flexible_working_policy.md)
+11. [Ethical Procurement Policy](ethical_procurement_policy.md)
 
 ### License
 GNU General Public License 3.0
