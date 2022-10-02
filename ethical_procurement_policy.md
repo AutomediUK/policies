@@ -4,7 +4,7 @@ title: "Ethical Procurement Policy"
 permalink: /ethical_procurement_policy.md
 ---
 
-#Ethical Procurement Statement
+# Ethical Procurement Statement
 
 **Ethical Procurement**
 
