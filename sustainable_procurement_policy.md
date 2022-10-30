@@ -40,9 +40,11 @@ To support our spend analysis and work planning, we will establish a process to 
 
 - Level of spend 
 - Level of contract renewal activity 
-- Key suppliers by type and location  
+- Key suppliers by type and location. Preference shall be given to minimised transportation and packaging emission footprints  
 - Level of risk against each sustainability objective 
 - Scope for improvement 
+- 25% minimum sustainability scoring 
+- Outcome-based Procurement and engagement
 
 This will be used to prioritise sub-categories for sustainability improvement activities. 
 
@@ -77,8 +79,8 @@ Sustainable Procurement will be incorporated in to the induction, job descriptio
 ## Communication & Reporting  
 To communicate this policy to suppliers, buyers will include a link to this Sustainable Procurement Policy as an appendix to all Invitations to Tender.  This is also publicly available through our OpenPolicy initiative.
 
-We will recognise those suppliers whose products and services offer the greatest sustainability improvements. 
-## 1.5 Policy Development 
+We recognise suppliers whose products and services offer the greatest sustainability improvements. 
+## Policy Development 
 This policy will be reviewed on an annual basis.  
 
 
