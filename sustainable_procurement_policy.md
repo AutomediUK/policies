@@ -66,6 +66,8 @@ Buyers will establish:
 - all cost effective opportunities for products to be shared, upgraded, refurbished, leased or delivered as a service have been exploited, 
 - the product will be used efficiently, minimising waste  
 - prioritise circular economies over disposal, especially through our own operations
+
+
 ## Innovation & Supplier Development  
 Sustainability is a key aspect of our commitment to innovation. 
 
