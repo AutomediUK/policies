@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Sustainable Procurement Policy"
+permalink: /anti-bribery_policy
+---
+
 # Sustainable Procurement Policy Statement
 
 ## Overall Aim 
@@ -24,6 +30,7 @@ Buying more sustainably offers whole life cost savings, supports our commitment 
 - Go beyond Net Zero and aim for Negative emissions while balancing financial sustainability
 
 The company will define measures relating to each of these objectives. 
+
 ## Scope 
 This policy applies to all capital and operational purchasing activities and within the company. 
 
@@ -39,7 +46,15 @@ To support our spend analysis and work planning, we will establish a process to 
 
 This will be used to prioritise sub-categories for sustainability improvement activities. 
 
-Demand Review 	 
+## Public Tenders
+Social Value and Carbon reporting was defined in PPN 06/20 and PPN 06/21. The Company recognises these are weak guidelines that can be used by unscrupulous suppliers to hide climate impacts from buyers. We also recognise the likelihood that the minimum 10% threshold will achieve a materially more sustainable procurement profile, is low. 
+
+The company commits to go beyond the minimum standard of 10% and recognises that UK Government may not be sufficiently skilled in its understanding of total sustainability. The Company shall always recognises the need to place resources where they are most impactful and recognises a conflict between the reality of ineffectual or harmful public procurement strategy and public procurement participation. 
+
+To meet our objectives, environmental impact shall take precedent over public procurement participation. The company recognises the need for public sector to learn from its mistakes and that its feedback can be part of that learning. Where practicable, and presented in good faith, the compamny shall, at its discretion furnish public buyers with contructive feedback on the company's withdrawal of interest. 
+
+
+## Demand Review 	 
 
 Prior to any tender process, buyers will review the aggregate requirement to optimise volume, scale, costs and minimise environmental impact.   
 
