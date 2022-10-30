@@ -21,6 +21,7 @@ This site provides open source policy suitable for an technology heavy firm in t
 9. [Health at Work Policy](health_at_work_policy.md)
 10. [Flexible Working Policy](flexible_working_policy.md)
 11. [Ethical Procurement Policy](ethical_procurement_policy.md)
+12. [Prompt Payment Policy](prompt_payemnt_policy.md)
 
 
 ### License
