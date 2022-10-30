@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sustainable Procurement Policy"
-permalink: /anti-bribery_policy
+permalink: /sustainable_procurement_policy/
 ---
 
 # Sustainable Procurement Policy Statement
