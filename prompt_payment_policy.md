@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prompt Payment  Policy"
+title: "Prompt Payment Policy"
 permalink: /prompt_payment_policy/
 ---
 
