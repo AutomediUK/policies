@@ -22,6 +22,7 @@ This site provides open source policy suitable for an IT firm in the UK. The aim
 11. [Ethical Procurement Policy](ethical_procurement_policy.md)
 12. [Prompt Payment Policy](prompt_payment_policy.md)
 13. [Sustainable Procurement Policy](sustainable_procurement_policy.md)
+14. [Child Labor Policy](child_labour_policy.md)
 
 ### License
 GNU General Public License 3.0
