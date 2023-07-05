@@ -24,6 +24,7 @@ This site provides open source policy suitable for an technology heavy firm in t
 12. [Prompt Payment Policy](prompt_payment_policy.md)
 13. [Sustainable Procurement Policy](sustainable_procurement_policy.md)
 14. [Child Labor Policy](child_labour_policy.md)
+15. [Ethical Marketing Policy](ethical_marketing_policy.md)
 
 
 ### License
