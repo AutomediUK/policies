@@ -76,7 +76,7 @@ c) To remove barriers and enable staff to be active in and around work.
 - Provide safe storage racks for bicycles.
 - Provide showering and/or changing facilities.
 
-**2. Healthy eating**
+**Healthy eating**
 
 a) To implement a healthy eating policy that raises awareness of the benefits of healthy eating.
 
@@ -109,7 +109,7 @@ c) To remove barriers and enable employees to make healthy eating choices.
 - Offer fruit instead of biscuits during meetings.
 - Provide access to cool drinking water for all employees.
 
-3. Mental wellbeing
+**Mental wellbeing**
 
 a) To develop a supportive culture, tackle factors that may negatively affect mental wellbeing, and to develop management skills.
 
