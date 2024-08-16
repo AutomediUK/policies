@@ -24,8 +24,9 @@ There are many examples of hazardous substances which can cause ill health, incl
 *	Substances generated from activities, e.g. fumes. 
 *	Naturally occurring substances, e.g. grain dust. 
 *	Biological agents such as bacteria and other micro-organisms. 
-Material Safety Data Sheet (MSDS): 
-For the purpose of this policy, an “MSDS” is a document which provides important health and safety information regarding a substance. This is provided by the supplier or manufacturer, and indicates whether a substance is classified as hazardous. 
+
+_Material Data Sheet (MDS)_ 
+For the purpose of this policy, an “MDS” is a document which provides important health and safety information regarding a substance. This is provided by the supplier or manufacturer, and indicates whether a substance is classified as hazardous. 
   
 ## Roles and responsibilities ## 
 The Registered Manager is responsible for: 
