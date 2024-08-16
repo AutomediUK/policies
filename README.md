@@ -24,6 +24,7 @@ This site provides open source policy suitable for an IT firm in the UK. The aim
 13. [Sustainable Procurement Policy](sustainable_procurement_policy.md)
 14. [Child Labor Policy](child_labour_policy.md)
 15. [Ethical Marketing Policy](ethical_marketing_policy.md)
+16. [Control of Substances Hazardous to Health](coshh_policy.md)
 
 ### License
 GNU General Public License 3.0
