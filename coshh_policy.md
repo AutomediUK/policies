@@ -1,4 +1,4 @@
-# COSHH Policy # 
+# COSHH Policy #
  
 ## Statement of intent ## 
 We understand the importance of protecting the health and safety of all our employees, general public, and other staff attending the setting. 
